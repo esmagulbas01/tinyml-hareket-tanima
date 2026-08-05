@@ -1,0 +1,14 @@
+# Python sanal ortamı ve önbellek
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter kontrol noktaları
+.ipynb_checkpoints/
+
+# İşletim sistemi / editör dosyaları
+.DS_Store
+.vscode/
+
+# Büyük/geçici model çıktıları (isteğe bağlı)
+*.log
