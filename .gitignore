@@ -12,3 +12,6 @@ __pycache__/
 
 # Büyük/geçici model çıktıları (isteğe bağlı)
 *.log
+
+# Veri setleri (GitHub'a yüklenmez)
+data/
