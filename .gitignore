@@ -15,3 +15,8 @@ __pycache__/
 
 # Veri setleri (GitHub'a yüklenmez)
 data/
+
+# PlatformIO firmware geçici dosyaları
+wokwi_hareket/.pio/
+wokwi_hareket/.vscode/
+
