@@ -29,7 +29,7 @@ namespace {
 void setup() {
   Serial.begin(115200);
   delay(1000);
-  Serial.println("=== TinyML Hareket Tanima ===");
+  Serial.println(">>> ESP32 calisiyor <<<");
 
   // 1) Modeli yükle
   model = tflite::GetModel(model_data);
